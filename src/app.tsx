@@ -31,7 +31,7 @@ export default function App({ children }: AppProps) {
         width: 48,
         height: 48,
         position: 'fixed',
-        bgcolor: 'grey.800',
+        bgcolor: 'red',
       }}
     >
       <Iconify width={24} icon="socials:github" sx={{ '--color': 'white' }} />
